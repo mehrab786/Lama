@@ -13,7 +13,7 @@ const Menu = () => {
         <CiMenuKebab className='cursor-pointer '
          onClick={()=>setOpen((prev)=>!prev)}/>
             {open && 
-                <div className='absolute bg-slate-200 text-black left-0 top-20 w-full h-[calc(100vh-80px)]
+                <div className='absolute bg-slate-500 text-black left-0 top-20 w-full h-[calc(100vh-80px)]
                 flex flex-col items-center justify-center gap-8 text-2xl z-10'>
                     <Link href='/'>HomePage</Link>
                     <Link href='/'>Deals</Link>
