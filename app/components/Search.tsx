@@ -15,7 +15,7 @@ const Search = () => {
     }
   }
   return (
-    <form className='hidden md:flex md:flex-row md:flex-1 justify-between items-center gap-2 p-4 rounded-md
+    <form className='hidden md:flex md:flex-row md:flex-1 justify-between items-center gap-2 p-2 rounded-md
      bg-slate-100' onSubmit={handleSearch}>
       <input type="text" name='name' placeholder="Search" className='bg-transparent md:flex-1 outline-none' />
       <Image src= '/search.png' alt='' width={16} height={16} />
