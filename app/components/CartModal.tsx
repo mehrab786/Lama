@@ -15,6 +15,7 @@ const cartItems = true; // replace with your logic here
 
             // list
         <>
+        <h3 className="text-xl">Shopping Cart</h3>
         <div className='flex flex-col gap-8'>
             {/* cart items */} 
             <div className='flex gap-2 p-3'>
@@ -67,8 +68,8 @@ const cartItems = true; // replace with your logic here
             </div>
             <p className='text-gray-500 text-sm mt-2 mb-4'>loren sfhsbf fhefb ksjgfn </p>
             <div className="flex justify-between items-center text-sm">
-                <button className='py-2 px-4 bg-gray-500 text-white rounded-md'>Checkout</button>
-                <button className='py-2 px-4 text-gray-500 rounded-md'>Continue Shopping</button>
+                <button className="rounded-md py-3 px-4 ring-1 ring-gray-300"> View Cart</button>
+                <button className="rounded-md py-3 px-4 text-white bg-blue-600 "> Checkout</button>
             </div>
         </div>
         </>
