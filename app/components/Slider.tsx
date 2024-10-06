@@ -36,10 +36,11 @@ const slides = [
 const Slider = () => {
   const [current, setCurrent] = useState(0);
   return (
-      <div className="h-[calc(100vh-90px)] overflow-hidden bg-slate-800">
-        <div className="w-max h-full transition-all ease-in-out duration-1000 ">
+      <div className="h-[calc(100vh-90px)] overflow-hidden ">
+        <div className="w-max h-full flex transition-all ease-in-out duration-1000 "
+        style={{transform:`translateX(-${current * 100}vw)`}}>
           {slides.map(slide =>(
-            <div className= {`${slide.bg} w-screen h-full flex flex-col gap-16 xl:flex-row`} key={slide.id}>
+            <div className= {`${slide.bg} w-screen h-full lg:flex lg:flex-row xl:flex-row 2xl:flex-row`} key={slide.id}>
               {/* text-container */}
               <div className="h-1/2 xl:w-1/2 flex flex-col gap-8 justify-center items-center text-center 2xl:gap-12 xl:h-full">
                 <h2 className="text-xl lg:text-3xl xl:text-5xl"> {slide.description}</h2>

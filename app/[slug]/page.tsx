@@ -2,7 +2,11 @@ import React from 'react'
 
 const singlePage = () => {
   return (
-    <div>singlePage</div>
+    <div>
+      singlePage
+
+       
+    </div>
   
   )
 }
