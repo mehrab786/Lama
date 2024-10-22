@@ -21,7 +21,34 @@ const Footer = () => {
               </div>
             </div>
           {/* CENTER */}
-            <div className='hidden flex justify-between w-1/2'>
+            <div className='hidden lg:flex justify-between w-1/2'>
+
+              <div className="flex flex-col justify-between">
+                <h1 className='font-medium text-lg'>Company</h1>
+                <Link href="/"><p>Contact Us</p></Link>
+                <Link href="/"><p>FAQ</p></Link>
+                <Link href="/"><p>Terms & Conditions</p></Link>
+                <Link href="/"><p>Return Policy</p></Link>
+                <Link href="/"><p>Privacy Policy</p></Link>
+              </div>
+
+              <div className="flex flex-col justify-between">
+                <h1 className='font-medium text-lg'>Shop</h1>
+                <Link href="/"><p>New Arrivals</p></Link>
+                <Link href="/"><p>Accessories</p></Link>
+                <Link href="/"><p>Men</p></Link>
+                <Link href="/"><p>Women</p></Link>
+                <Link href="/"><p>All Products</p></Link>
+              </div>
+
+              <div className="flex flex-col justify-between">
+                <h1 className='font-medium text-lg'>Help</h1>
+                <Link href="/"><p>Customer Service</p></Link>
+                <Link href="/"><p>My Account</p></Link>
+                <Link href="/"><p>Find a Store</p></Link>
+                <Link href="/"><p>Legal&Privacy</p></Link>
+                <Link href="/"><p>Gift Card</p></Link>
+              </div>
 
             </div>
           {/* RIGHT */}
@@ -43,6 +70,26 @@ const Footer = () => {
                 
             </div>
        </div>
+
+       {/* bottom */}
+        <div className="flex flex-col md:flex-row justify-between items-center gap-8 mt-16">
+
+          <div className=""> © 2024 Mehrab Shop</div>
+
+          <div className="flex flex-col items-center gap-8 md:flex-row">
+            <div className="">
+              <span className="text-gray-500 mr-4"> Language</span>
+              <span className="font-medium"> United Arab Emirates | English</span>
+            </div>
+
+            <div className="">
+              <span className="text-gray-500 mr-4"> Currency</span>
+              <span className="font-medium"> AED</span>
+            </div>
+
+          </div>
+
+        </div>
     </div>
   )
 }
