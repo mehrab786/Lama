@@ -32,8 +32,8 @@ const NavIcons = () => {
           <div className='mt-2 cursor-pointer'>Logout</div> 
         </div> }
         <Image src='/notification.png' alt='' height={22} width={22} className='cursor-pointer'/>
-      <div className='relative cursor-pointer'> 
-      <Image src='/cart.png' alt='' height={22} width={22} className='cursor-pointer' onClick={()=>setIsCartOpen((prev)=>!prev)}/>
+      <div className='relative cursor-pointer' onClick={()=>setIsCartOpen((prev)=>!prev)}> 
+      <Image src='/cart.png' alt='' height={22} width={22} className='cursor-pointer' />
        <div className='absolute bg-red-500 text-sm rounded-full text-white h-6 w-6 flex items-center justify-center -top-4 -right-4'>2</div>
       </div>
       {isCartOpen && <CartModal/>} 
