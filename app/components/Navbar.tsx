@@ -8,7 +8,7 @@ import NavIcons from './NavIcons'
 
 const Navbar = () => {
   return (
-    <div className='h-20 px-4 md:8 lg:16 xl:32 2xl:64 relative'>
+    <div className='h-20 px-4 md:px-8 lg:px-16 xl:px-32 2xl:px-64 relative'>
       <div className='h-full justify-between items-center flex md:hidden'>
         {/* Mobile */}
        <Link href='/'>
@@ -18,7 +18,7 @@ const Navbar = () => {
       </div>
 
       {/* bigger  screens */}
-      <div className="hidden md:flex justify-between items-center gap-8 h-full">
+      <div className="hidden md:flex justify-between items-center gap-32 h-full">
         {/* Left side */}
         <div className="w-1/3 xl:w-1/2 flex items-center gap-12">
              <Link href='/' className='md:flex md:flex-row gap-3'>
@@ -38,7 +38,7 @@ const Navbar = () => {
 
         </div>
         {/* right side */}
-        <div className="w-2/3 xl:w-1/2 flex justify-between gap-8 items-center flex-row">
+        <div className="w-2/3 xl:w-1/2 flex justify-between gap-4 items-center flex-row">
           <Search/>
           <NavIcons/>
         </div>
