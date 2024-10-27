@@ -32,8 +32,7 @@ const Navbar = () => {
                     <Link href='/'>Shop</Link>
                     <Link href='/'>About</Link>
                     <Link href='/'>Contact</Link>
-                    <Link href='/'>Logout</Link>
-                    <Link href='/'>Cart(1)</Link>
+                    
                </div>
 
         </div>

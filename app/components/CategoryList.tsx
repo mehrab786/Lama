@@ -9,7 +9,7 @@ const CategoryList = () => {
             <Link href='/list?cat=test' className='flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6' >
                 <div className="relative w-full h-96 bg-slate-500">
                  <Image className='object-cover ' 
-                     src="https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=600" 
+                     src="https://images.pexels.com/photos/5886043/pexels-photo-5886043.jpeg?auto=compress&cs=tinysrgb&w=600" 
                      alt="" 
                      fill 
                      sizes='20vw'/>
@@ -20,7 +20,7 @@ const CategoryList = () => {
             <Link href='/list?cat=test' className='flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6' >
                 <div className="relative w-full h-96 bg-slate-500">
                  <Image className='object-cover ' 
-                     src="https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=600" 
+                     src="https://images.pexels.com/photos/2896430/pexels-photo-2896430.jpeg?auto=compress&cs=tinysrgb&w=600" 
                      alt="" 
                      fill 
                      sizes='20vw'/>
@@ -30,7 +30,7 @@ const CategoryList = () => {
             <Link href='/list?cat=test' className='flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6' >
                 <div className="relative w-full h-96 bg-slate-500">
                  <Image className='object-cover ' 
-                     src="https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=600" 
+                     src="https://images.pexels.com/photos/9810903/pexels-photo-9810903.jpeg?auto=compress&cs=tinysrgb&w=600" 
                      alt="" 
                      fill 
                      sizes='20vw'/>
@@ -40,7 +40,7 @@ const CategoryList = () => {
             <Link href='/list?cat=test' className='flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6' >
                 <div className="relative w-full h-96 bg-slate-500">
                  <Image className='object-cover ' 
-                     src="https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=600" 
+                     src="https://images.pexels.com/photos/6153367/pexels-photo-6153367.jpeg?auto=compress&cs=tinysrgb&w=600" 
                      alt="" 
                      fill 
                      sizes='20vw'/>
@@ -50,7 +50,7 @@ const CategoryList = () => {
             <Link href='/list?cat=test' className='flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6' >
                 <div className="relative w-full h-96 bg-slate-500">
                  <Image className='object-cover ' 
-                     src="https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=600" 
+                     src="https://images.pexels.com/photos/14579191/pexels-photo-14579191.jpeg?auto=compress&cs=tinysrgb&w=600" 
                      alt="" 
                      fill 
                      sizes='20vw'/>
@@ -60,7 +60,7 @@ const CategoryList = () => {
             <Link href='/list?cat=test' className='flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6' >
                 <div className="relative w-full h-96 bg-slate-500">
                  <Image className='object-cover ' 
-                     src="https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=600" 
+                     src="https://images.pexels.com/photos/219023/pexels-photo-219023.jpeg?auto=compress&cs=tinysrgb&w=600" 
                      alt="" 
                      fill 
                      sizes='20vw'/>
@@ -70,7 +70,7 @@ const CategoryList = () => {
             <Link href='/list?cat=test' className='flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6' >
                 <div className="relative w-full h-96 bg-slate-500">
                  <Image className='object-cover ' 
-                     src="https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=600" 
+                     src="https://images.pexels.com/photos/1082529/pexels-photo-1082529.jpeg?auto=compress&cs=tinysrgb&w=600" 
                      alt="" 
                      fill 
                      sizes='20vw'/>
@@ -80,7 +80,7 @@ const CategoryList = () => {
             <Link href='/list?cat=test' className='flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6' >
                 <div className="relative w-full h-96 bg-slate-500">
                  <Image className='object-cover ' 
-                     src="https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=600" 
+                     src="https://images.pexels.com/photos/6069982/pexels-photo-6069982.jpeg?auto=compress&cs=tinysrgb&w=600" 
                      alt="" 
                      fill 
                      sizes='20vw'/>

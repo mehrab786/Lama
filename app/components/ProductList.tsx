@@ -9,12 +9,12 @@ const ProductList = () => {
             <div className='relative w-full h-80'>
               <Image 
               className='absolute object-cover rounded-md'
-               src="https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=600" 
+               src="https://images.pexels.com/photos/1557843/pexels-photo-1557843.jpeg?auto=compress&cs=tinysrgb&w=600" 
                alt="" 
                fill 
                sizes='25vw'/>
             <Image className='absolute object-cover rounded-md hover:opacity-0 transition-opacity easy duration-500' 
-             src="https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600" 
+             src="https://images.pexels.com/photos/2466756/pexels-photo-2466756.jpeg?auto=compress&cs=tinysrgb&w=600" 
              alt="" 
              fill 
              sizes='25vw'/>
@@ -32,12 +32,12 @@ const ProductList = () => {
             <div className='relative w-full h-80'>
               <Image 
               className='absolute object-cover rounded-md'
-               src="https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=600" 
+               src="https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=600" 
                alt="" 
                fill 
                sizes='25vw'/>
             <Image className='absolute object-cover rounded-md hover:opacity-0 transition-opacity easy duration-500' 
-             src="https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600" 
+             src="https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg?auto=compress&cs=tinysrgb&w=600" 
              alt="" 
              fill 
              sizes='25vw'/>
@@ -55,12 +55,12 @@ const ProductList = () => {
             <div className='relative w-full h-80'>
               <Image 
               className='absolute object-cover rounded-md'
-               src="https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=600" 
+               src="https://images.pexels.com/photos/902030/pexels-photo-902030.jpeg?auto=compress&cs=tinysrgb&w=600" 
                alt="" 
                fill 
                sizes='25vw'/>
             <Image className='absolute object-cover rounded-md hover:opacity-0 transition-opacity easy duration-500' 
-             src="https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600" 
+             src="https://images.pexels.com/photos/4672246/pexels-photo-4672246.jpeg?auto=compress&cs=tinysrgb&w=600" 
              alt="" 
              fill 
              sizes='25vw'/>
@@ -78,12 +78,12 @@ const ProductList = () => {
             <div className='relative w-full h-80'>
               <Image 
               className='absolute object-cover rounded-md'
-               src="https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=600" 
+               src="https://images.pexels.com/photos/2235071/pexels-photo-2235071.jpeg?auto=compress&cs=tinysrgb&w=600" 
                alt="" 
                fill 
                sizes='25vw'/>
             <Image className='absolute object-cover rounded-md hover:opacity-0 transition-opacity easy duration-500' 
-             src="https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600" 
+             src="https://images.pexels.com/photos/4352249/pexels-photo-4352249.jpeg?auto=compress&cs=tinysrgb&w=600" 
              alt="" 
              fill 
              sizes='25vw'/>
